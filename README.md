@@ -10,6 +10,7 @@ One Piece is a Japanese anime and manga series created by Eiichiro Oda.
 The story follows Monkey D. Luffy and his crew, the Straw Hat Pirates, on their journey to find the legendary treasure called the One Piece.
 
 "I'm gonna be King of the Pirates!" — Monkey D. Luffy
+
 ☠️ Main Characters
 Straw Hat Pirates
 Monkey D. Luffy
@@ -43,8 +44,10 @@ Characters	10/10
 Animation	9/10
 Music	10/10
 Adventure	100/10
+
 💬 Favorite Quote
 "When do you think people die? When they are forgotten."
+
 💻 Fun Fact
 
 Luffy ate a Devil Fruit that gave him rubber-like abilities.
