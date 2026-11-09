@@ -2,6 +2,7 @@
 My first repository.
 
 🏴‍☠️ ONE PIECE
+
 🌊 About One Piece
 
 One Piece is a Japanese anime and manga series created by Eiichiro Oda.
